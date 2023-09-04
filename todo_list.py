@@ -1,4 +1,4 @@
-£ write a simple python code that stores todo list
+# write a simple python code that stores todo list
 
 tasks = []
 
